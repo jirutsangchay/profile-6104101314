@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+    
+}
+.jumbotron{
+    background-color: 	#CC66CC; opacity: 0.6;
+
+}
+div.rowfeaturette{
+    margin: 0 auto;
+}
+.row{
+    width: 960px;
+    margin: 0 auto;
+}
+footer{
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+    
+}
+h1{
+    font-family: 'Ranchers', cursive;
+    font-size: 100px;
+    color: black;
+}
